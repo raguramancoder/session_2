@@ -1,0 +1,44 @@
+body {
+    font-family: 'Lato', sans-serif; 
+    background-color:rgb(168, 180, 127);
+}
+
+h1 {
+    color:rgb(0, 255, 94);
+    background-color:rgb(160, 198, 23);
+}
+
+p {
+font-size: 30px;
+font-weight: 500;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+/*to start the class,you will start with a "." */
+
+.abc{
+    font-size: 18px;
+    color: rgb(162, 96, 15);
+    background-color: rgb(78, 136, 228);
+}
+
+/*to call an id use "#" */
+
+#zxc{
+    font-size: 99px;
+    color: rgb(130, 10, 243);
+    background-color: rgb(29, 88, 68);
+}
+
+h1{
+    display: inline-block;
+
+}
+
+a{
+    display: block;
+}
